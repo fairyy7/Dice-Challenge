@@ -1,2 +1,2 @@
 # Dice-Challenge
-Basic Level Dice Challenge to test JS
+Basic Level Dice to test JS
